@@ -12,7 +12,7 @@
 
 Happy coding! 😄
 
-Skills: HTML / CSS / BootStrap / JavaScript / jQuery / MySQL / PHP / WordPress
+Skills: HTML / CSS / SASS / BootStrap / Tailwind CSS / JavaScript / jQuery / MySQL / PHP / WordPress Theme Development / WordPress Plugin Development.
 
 - 🔭 I’m currently working on this page.
 

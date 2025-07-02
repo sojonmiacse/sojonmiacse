@@ -8,7 +8,7 @@
 
 🌱 Always eager to learn and explore new technologies, I'm constantly seeking ways to improve my skills and stay up-to-date with the latest trends in web development.
 
-📫 Want to collaborate on WordPress projects or have any questions? Feel free to reach out to me via email at sojonmiawebdev@gmail.com or connect with me on LinkedIn/Twitter/Other social media.
+📫 Want to collaborate on WordPress projects or have any questions? Feel free to reach out to me via email at sojonmiacse@gmail.com or connect with me on LinkedIn/Twitter/Other social media.
 
 Happy coding! 😄
 
@@ -37,6 +37,6 @@ Skills: HTML / CSS / SASS / BootStrap / Tailwind CSS / JavaScript / jQuery / MyS
  </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csesojonmia23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojonmiacse)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/csesojonmia23)  
+![Profile views](https://gpvc.arturio.dev/sojonmiacse)  

@@ -18,10 +18,10 @@ Skills: HTML / CSS / SASS / BootStrap / Tailwind CSS / JavaScript / jQuery / MyS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sojonmiacse23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csesojonmia23" height="30" width="40" /></a>
-<a href="https://instagram.com/sojonmiacse23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csesojonmia23" height="30" width="40" /></a>
-<a href="https://www.x.com/sojonmiacse23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csesojonmia23" height="30" width="40" /></a>
-<a href="https://fb.com/sojonmiacse23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="csesojonmia23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sojonmiacse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sojonmiacse" height="30" width="40" /></a>
+<a href="https://instagram.com/sojonmiacse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sojonmiacse" height="30" width="40" /></a>
+<a href="https://www.x.com/sojonmiacse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sojonmiacse" height="30" width="40" /></a>
+<a href="https://fb.com/sojonmiacse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sojonmiacse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
